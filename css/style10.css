@@ -1,0 +1,85 @@
+/*æŠ•ç¨¿ç”»é¢CSS*/
+
+body {
+    background-color: #29303B;
+    color:#fff;
+}
+
+
+header {
+    background: linear-gradient(#29303B,#29303B,#29303B);
+    margin: 10px auto ;
+    /*width: 800px;*/
+    /*font-style: italic;*/
+}
+
+.container {
+    margin: 30px auto;
+    /*box-shadow:3px 3px 6px 1px #000000;*/
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom:30px;
+    /*max-width: 960px;*/
+}
+
+header h1 {
+    text-align: center;
+    color: #fff;
+    padding: 3px;
+    font-size: 2.0rem;
+    background-color:#fff;
+}
+
+hr {
+    /* height: 10px; */
+    /*width: 85%;*/
+    max-width: 1024px;
+    background-color: #fff;
+}
+
+form {
+    width: 100%;
+}
+
+.form-group {
+    margin-left: 20px;
+    /*margin: 0 auto;*/
+    
+
+}
+
+.checkbox {
+    margin-left: 20px;
+}
+
+.btn-danger {
+    /*margin-right: 10px; */
+    border-radius: 25px;
+}
+
+.btn-info {
+    /*margin-right: 10px; */
+    border-radius: 25px;
+}
+.error {
+    color: rgb(255, 0, 0);
+}
+
+.jumbotron {
+    background-size: cover;
+}
+
+footer {
+    text-align: center;
+}
+style {
+    padding:10px;
+    border-radius:10px;
+    background:rgb(65, 54, 54);
+}
+.user_information {
+    margin-inline: 5px;
+}
+article {
+    text-align: center;
+}
